@@ -27,8 +27,8 @@ A white premium 3D/glassmorphism hospital website built with HTML, CSS and vanil
 - Responsive desktop/tablet/mobile design
 
 ## Admin Login
-Email: `admin@gmail.com`
-Password: `admin@123`
+Email`
+Password: ``
 
 For production deployment, replace the demo/local authentication with secure Firebase/Supabase/backend authentication and use cloud storage/database for large media and multi-user access.
 
